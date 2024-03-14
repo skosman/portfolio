@@ -33,3 +33,8 @@ npm run build
 ```sh
 npm run lint
 ```
+
+## Resources
+The project uses Tailwind along with Flowbite for components. For more information regarding the two, see the following links:
+https://tailwindcss.com/
+https://flowbite.com/
